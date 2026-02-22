@@ -1,0 +1,6 @@
+# Prevent accidentally committing tokens/secrets
+github_pat_*
+*.token
+*.key
+.env
+.env.*
